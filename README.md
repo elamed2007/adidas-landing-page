@@ -1,0 +1,14 @@
+# Adidas Landing Page
+
+## 🌐 Live Demo
+
+👉 [Visit Website](https://elamed2007.github.io/adidas-landing-page/)
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+
+## 📸 Preview
+
+Adidas landing page project.
