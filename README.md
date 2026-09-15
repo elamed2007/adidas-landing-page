@@ -6,5 +6,5 @@
 
 ## 🛠️ Technologies
 
-- HTML
-- CSS
+- HTML5
+- CSS3
