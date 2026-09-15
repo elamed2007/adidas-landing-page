@@ -8,7 +8,3 @@
 
 - HTML
 - CSS
-
-## 📸 Preview
-
-Adidas landing page project.
